@@ -1,2 +1,3 @@
 # 🕊️ clone-twitter
-<img src="./imagem/clone-twitter.png">
+<img src="./img/clone-twitter.png">
+#### Simples clone para treinar HTML e CSS3.
